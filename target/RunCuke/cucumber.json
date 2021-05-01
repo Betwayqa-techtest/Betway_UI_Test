@@ -1,0 +1,794 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8620298700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": ": User should not be able to login with invalid credential",
+        "description": "",
+        "id": "as-a-qa,-i-would-like-to-verify-all-negative-scenarios-for-login;:-user-should-not-be-able-to-login-with-invalid-credential;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 967195300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 199080600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User am on www.bbc.co.uk hopepage",
+            "match": {
+              "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2623501000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Sign in tab",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 44700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User am on Sign in page",
+            "match": {
+              "location": "SignInFuctions.userAmOnSignInPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 163979200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username as \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterUsernameAs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 165306200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter password as \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterPasswordAs(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 124794000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Sign in button",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 32600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Sign in should be unsuccessful",
+            "match": {
+              "location": "SignInFuctions.signInShouldBeUnsuccessful()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7870804300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": ": User should not be able to login with invalid credential",
+        "description": "",
+        "id": "as-a-qa,-i-would-like-to-verify-all-negative-scenarios-for-login;:-user-should-not-be-able-to-login-with-invalid-credential;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 1257687000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5644300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User am on www.bbc.co.uk hopepage",
+            "match": {
+              "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1968001000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Sign in tab",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 27100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User am on Sign in page",
+            "match": {
+              "location": "SignInFuctions.userAmOnSignInPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 159563700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username as \"ABC123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ABC123",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterUsernameAs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 112705600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter password as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterPasswordAs(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 116663400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Sign in button",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 25800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Sign in should be unsuccessful",
+            "match": {
+              "location": "SignInFuctions.signInShouldBeUnsuccessful()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 8042751500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": ": User should not be able to login with invalid credential",
+        "description": "",
+        "id": "as-a-qa,-i-would-like-to-verify-all-negative-scenarios-for-login;:-user-should-not-be-able-to-login-with-invalid-credential;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 848121700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9414500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User am on www.bbc.co.uk hopepage",
+            "match": {
+              "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2068453600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Sign in tab",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User am on Sign in page",
+            "match": {
+              "location": "SignInFuctions.userAmOnSignInPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 96468100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username as \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterUsernameAs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1086979700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter password as \"Abc12\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Abc12",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterPasswordAs(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 89395400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Sign in button",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Sign in should be unsuccessful",
+            "match": {
+              "location": "SignInFuctions.signInShouldBeUnsuccessful()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7952691200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": ": User should not be able to login with invalid credential",
+        "description": "",
+        "id": "as-a-qa,-i-would-like-to-verify-all-negative-scenarios-for-login;:-user-should-not-be-able-to-login-with-invalid-credential;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 962964900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7455800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User am on www.bbc.co.uk hopepage",
+            "match": {
+              "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2237771000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Sign in tab",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 201900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User am on Sign in page",
+            "match": {
+              "location": "SignInFuctions.userAmOnSignInPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 157481100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enter username as \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterUsernameAs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 154834500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter password as \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 24
+                }
+              ],
+              "location": "SignInFuctions.userEnterPasswordAs(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 116676100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Sign in button",
+            "match": {
+              "location": "SignInFuctions.userClickOnSignInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 23000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Sign in should be unsuccessful",
+            "match": {
+              "location": "SignInFuctions.signInShouldBeUnsuccessful()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "As a QA, I would like to verify all negative scenarios for login",
+    "description": "",
+    "id": "as-a-qa,-i-would-like-to-verify-all-negative-scenarios-for-login",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefiles/LoginFunctionality.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6991729000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Use the search option to find all articles related to ‘sports’. Output the first heading and the last heading returned on the pa",
+        "description": "",
+        "id": "as-a-sports-user,-i-would-like-to-read-about-all-articles-related-to-sports;use-the-search-option-to-find-all-articles-related-to-‘sports’.-output-the-first-heading-and-the-last-heading-returned-on-the-pa",
+        "after": [
+          {
+            "result": {
+              "duration": 790015400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16885100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on www.bbc.co.uk hopepage",
+            "match": {
+              "location": "TeamsScore.iAmOnWwwBbcCoUkHopepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 922356500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click on Search bar",
+            "match": {
+              "location": "SearchbarFunction.iClickOnSearchBar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on search page",
+            "match": {
+              "location": "SearchbarFunction.iAmOnSearchPage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 147379700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter \"sports\" in the search bar",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sports",
+                  "offset": 9
+                }
+              ],
+              "location": "SearchbarFunction.iEnterInTheSearchBar(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1543538800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on the search icon button",
+            "match": {
+              "location": "SearchbarFunction.iClickOnTheSearchIconButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 27200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should able to read all articles related \u0027sports\u0027",
+            "match": {
+              "location": "SearchbarFunction.iShouldAbleToReadAllArticlesRelatedSports()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "As a sports user, I would like to read about all articles related to sports",
+    "description": "",
+    "id": "as-a-sports-user,-i-would-like-to-read-about-all-articles-related-to-sports",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefiles/Searchbar.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6920041500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Output all team names with a match today. If there are no matches today, output a message to convey this.",
+        "description": "",
+        "id": "as-a-business-user,-i-would-like-to-make-a-record-of-all-teams-which-are-playing-today;output-all-team-names-with-a-match-today.-if-there-are-no-matches-today,-output-a-message-to-convey-this.",
+        "after": [
+          {
+            "result": {
+              "duration": 1100937700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10510700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on www.bbc.co.uk hopepage",
+            "match": {
+              "location": "TeamsScore.iAmOnWwwBbcCoUkHopepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1968744600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click on sport tab header",
+            "match": {
+              "location": "TeamsScore.iClickOnSportTabHeader()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 33600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on now sport webpage",
+            "match": {
+              "location": "TeamsScore.iAmOnNowSportWebpage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1836296000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Football tab",
+            "match": {
+              "location": "TeamsScore.iClickOnFootballTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1546345000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on Score \u0026 Fixtures",
+            "match": {
+              "location": "TeamsScore.iClickOnScoreFixtures()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5676847300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Today",
+            "match": {
+              "location": "TeamsScore.iClickOnToday()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should be able to see all team names with a match today",
+            "match": {
+              "location": "TeamsScore.iShouldBeAbleToSeeAllTeamNamesWithAMatchToday()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "As a business user, I would like to make a record of all teams which are playing today",
+    "description": "",
+    "id": "as-a-business-user,-i-would-like-to-make-a-record-of-all-teams-which-are-playing-today",
+    "keyword": "Feature",
+    "uri": "src/test/java/resources/featurefiles/TeamsRecord.feature"
+  }
+]
