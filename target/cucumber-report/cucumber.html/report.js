@@ -99,7 +99,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8620298700,
+  "duration": 9127495800,
   "status": "passed"
 });
 formatter.scenario({
@@ -155,21 +155,21 @@ formatter.match({
   "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
 });
 formatter.result({
-  "duration": 199080600,
+  "duration": 173606000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInTab()"
 });
 formatter.result({
-  "duration": 2623501000,
+  "duration": 2254466700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userAmOnSignInPage()"
 });
 formatter.result({
-  "duration": 44700,
+  "duration": 36500,
   "status": "passed"
 });
 formatter.match({
@@ -182,7 +182,7 @@ formatter.match({
   "location": "SignInFuctions.userEnterUsernameAs(String)"
 });
 formatter.result({
-  "duration": 163979200,
+  "duration": 166527000,
   "status": "passed"
 });
 formatter.match({
@@ -195,29 +195,29 @@ formatter.match({
   "location": "SignInFuctions.userEnterPasswordAs(String)"
 });
 formatter.result({
-  "duration": 165306200,
+  "duration": 163551700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 124794000,
+  "duration": 113723800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.signInShouldBeUnsuccessful()"
 });
 formatter.result({
-  "duration": 32600,
+  "duration": 57600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 967195300,
+  "duration": 935949200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7870804300,
+  "duration": 5658279700,
   "status": "passed"
 });
 formatter.scenario({
@@ -273,21 +273,21 @@ formatter.match({
   "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
 });
 formatter.result({
-  "duration": 5644300,
+  "duration": 4237400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInTab()"
 });
 formatter.result({
-  "duration": 1968001000,
+  "duration": 2876363100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userAmOnSignInPage()"
 });
 formatter.result({
-  "duration": 27100,
+  "duration": 27300,
   "status": "passed"
 });
 formatter.match({
@@ -300,7 +300,7 @@ formatter.match({
   "location": "SignInFuctions.userEnterUsernameAs(String)"
 });
 formatter.result({
-  "duration": 159563700,
+  "duration": 163092900,
   "status": "passed"
 });
 formatter.match({
@@ -313,29 +313,29 @@ formatter.match({
   "location": "SignInFuctions.userEnterPasswordAs(String)"
 });
 formatter.result({
-  "duration": 112705600,
+  "duration": 124745700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 116663400,
+  "duration": 122128500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.signInShouldBeUnsuccessful()"
 });
 formatter.result({
-  "duration": 25800,
+  "duration": 33300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1257687000,
+  "duration": 802187000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8042751500,
+  "duration": 7783602500,
   "status": "passed"
 });
 formatter.scenario({
@@ -391,21 +391,21 @@ formatter.match({
   "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
 });
 formatter.result({
-  "duration": 9414500,
+  "duration": 2415000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInTab()"
 });
 formatter.result({
-  "duration": 2068453600,
+  "duration": 3303560300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userAmOnSignInPage()"
 });
 formatter.result({
-  "duration": 22500,
+  "duration": 18000,
   "status": "passed"
 });
 formatter.match({
@@ -418,7 +418,7 @@ formatter.match({
   "location": "SignInFuctions.userEnterUsernameAs(String)"
 });
 formatter.result({
-  "duration": 96468100,
+  "duration": 95789400,
   "status": "passed"
 });
 formatter.match({
@@ -431,29 +431,29 @@ formatter.match({
   "location": "SignInFuctions.userEnterPasswordAs(String)"
 });
 formatter.result({
-  "duration": 1086979700,
+  "duration": 231182700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 89395400,
+  "duration": 124483400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.signInShouldBeUnsuccessful()"
 });
 formatter.result({
-  "duration": 20700,
+  "duration": 25200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 848121700,
+  "duration": 1058277900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7952691200,
+  "duration": 6149776600,
   "status": "passed"
 });
 formatter.scenario({
@@ -509,21 +509,21 @@ formatter.match({
   "location": "SignInFuctions.userAmOnWwwBbcCoUkHopepage()"
 });
 formatter.result({
-  "duration": 7455800,
+  "duration": 8418900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInTab()"
 });
 formatter.result({
-  "duration": 2237771000,
+  "duration": 3611457100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userAmOnSignInPage()"
 });
 formatter.result({
-  "duration": 201900,
+  "duration": 56700,
   "status": "passed"
 });
 formatter.match({
@@ -536,7 +536,7 @@ formatter.match({
   "location": "SignInFuctions.userEnterUsernameAs(String)"
 });
 formatter.result({
-  "duration": 157481100,
+  "duration": 163310400,
   "status": "passed"
 });
 formatter.match({
@@ -549,25 +549,25 @@ formatter.match({
   "location": "SignInFuctions.userEnterPasswordAs(String)"
 });
 formatter.result({
-  "duration": 154834500,
+  "duration": 154348400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.userClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 116676100,
+  "duration": 111626000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInFuctions.signInShouldBeUnsuccessful()"
 });
 formatter.result({
-  "duration": 23000,
+  "duration": 30500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 962964900,
+  "duration": 864033500,
   "status": "passed"
 });
 formatter.uri("src/test/java/resources/featurefiles/Searchbar.feature");
@@ -579,14 +579,14 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6991729000,
+  "duration": 5512660500,
   "status": "passed"
 });
 formatter.scenario({
   "line": 3,
-  "name": "Use the search option to find all articles related to ‘sports’. Output the first heading and the last heading returned on the pa",
+  "name": "Use the search option to find all articles related to ‘sports’. Output the first heading and the last heading returned on the page",
   "description": "",
-  "id": "as-a-sports-user,-i-would-like-to-read-about-all-articles-related-to-sports;use-the-search-option-to-find-all-articles-related-to-‘sports’.-output-the-first-heading-and-the-last-heading-returned-on-the-pa",
+  "id": "as-a-sports-user,-i-would-like-to-read-about-all-articles-related-to-sports;use-the-search-option-to-find-all-articles-related-to-‘sports’.-output-the-first-heading-and-the-last-heading-returned-on-the-page",
   "type": "scenario",
   "keyword": "Scenario"
 });
@@ -621,24 +621,24 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "TeamsScore.iAmOnWwwBbcCoUkHopepage()"
+  "location": "TeamsRecordList.iAmOnWwwBbcCoUkHopepage()"
 });
 formatter.result({
-  "duration": 16885100,
+  "duration": 8109200,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchbarFunction.iClickOnSearchBar()"
 });
 formatter.result({
-  "duration": 922356500,
+  "duration": 3167725600,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchbarFunction.iAmOnSearchPage()"
 });
 formatter.result({
-  "duration": 29800,
+  "duration": 31000,
   "status": "passed"
 });
 formatter.match({
@@ -651,25 +651,25 @@ formatter.match({
   "location": "SearchbarFunction.iEnterInTheSearchBar(String)"
 });
 formatter.result({
-  "duration": 147379700,
+  "duration": 148911600,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchbarFunction.iClickOnTheSearchIconButton()"
 });
 formatter.result({
-  "duration": 1543538800,
+  "duration": 1470174100,
   "status": "passed"
 });
 formatter.match({
   "location": "SearchbarFunction.iShouldAbleToReadAllArticlesRelatedSports()"
 });
 formatter.result({
-  "duration": 27200,
+  "duration": 57600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 790015400,
+  "duration": 1295904600,
   "status": "passed"
 });
 formatter.uri("src/test/java/resources/featurefiles/TeamsRecord.feature");
@@ -681,7 +681,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6920041500,
+  "duration": 8980426600,
   "status": "passed"
 });
 formatter.scenario({
@@ -728,56 +728,56 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.match({
-  "location": "TeamsScore.iAmOnWwwBbcCoUkHopepage()"
+  "location": "TeamsRecordList.iAmOnWwwBbcCoUkHopepage()"
 });
 formatter.result({
-  "duration": 10510700,
+  "duration": 6861000,
   "status": "passed"
 });
 formatter.match({
-  "location": "TeamsScore.iClickOnSportTabHeader()"
+  "location": "TeamsRecordList.iClickOnSportTabHeader()"
 });
 formatter.result({
-  "duration": 1968744600,
+  "duration": 6201907200,
   "status": "passed"
 });
 formatter.match({
-  "location": "TeamsScore.iAmOnNowSportWebpage()"
+  "location": "TeamsRecordList.iAmOnNowSportWebpage()"
 });
 formatter.result({
-  "duration": 33600,
+  "duration": 37200,
   "status": "passed"
 });
 formatter.match({
-  "location": "TeamsScore.iClickOnFootballTab()"
+  "location": "TeamsRecordList.iClickOnFootballTab()"
 });
 formatter.result({
-  "duration": 1836296000,
+  "duration": 1867841900,
   "status": "passed"
 });
 formatter.match({
-  "location": "TeamsScore.iClickOnScoreFixtures()"
+  "location": "TeamsRecordList.iClickOnScoreFixtures()"
 });
 formatter.result({
-  "duration": 1546345000,
+  "duration": 1476182200,
   "status": "passed"
 });
 formatter.match({
-  "location": "TeamsScore.iClickOnToday()"
+  "location": "TeamsRecordList.iClickOnToday()"
 });
 formatter.result({
-  "duration": 5676847300,
+  "duration": 2490245700,
   "status": "passed"
 });
 formatter.match({
-  "location": "TeamsScore.iShouldBeAbleToSeeAllTeamNamesWithAMatchToday()"
+  "location": "TeamsRecordList.iShouldBeAbleToSeeAllTeamNamesWithAMatchToday()"
 });
 formatter.result({
-  "duration": 19200,
+  "duration": 25800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1100937700,
+  "duration": 859065600,
   "status": "passed"
 });
 });

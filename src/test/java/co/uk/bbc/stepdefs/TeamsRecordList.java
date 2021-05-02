@@ -7,7 +7,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class TeamsScore {
+public class TeamsRecordList {
 
     HomePage homePage = new HomePage();
     SportPage sportPage = new SportPage();

@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = ".",
         plugin = {"json:target/RunCuke/cucumber.json","pretty","html:target/cucumber-report/cucumber.html","com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html"
-        } //,
-        // tags = {"@Test1"}
+        } // ,
+       //  tags = {"@Test1"}
 
 )
 

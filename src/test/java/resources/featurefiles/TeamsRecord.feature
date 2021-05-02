@@ -2,7 +2,7 @@ Feature: As a business user, I would like to make a record of all teams which ar
 
   Scenario: Output all team names with a match today. If there are no matches today, output a message to convey this.
     Given I am on www.bbc.co.uk hopepage
-    And  I click on sport tab header
+    And I click on sport tab header
     And  I am on now sport webpage
     When I click on Football tab
     And I click on Score & Fixtures
